@@ -133,8 +133,9 @@
 (133) Nwokorobia Ugochukwu,uhexos,uhexos
 (134) Ememobong Akpanekpo (slack:ememobong_akpanekpo, github:emayoung, email:emayoung95@gmail.com)
 (135) Onyemenam Ndubuisi, @prondubuisi, NdubuisiO
-136. Tolu Faith (slack: imani, github: ToluImani)
+(136) Tolu Faith (slack: imani, github: ToluImani)
 (137) Andikan Usenmfon Affiah, slack:@andikan, github:@enactor
-138. Lasisi Tosin (slack: ridwan, github: ridwan099)
+(138) Lasisi Tosin (slack: ridwan, github: ridwan099)
 (139) John Ayeni, slack:@johnayeni10, github:JohnAyeni
+(140) Okoro Ogechi (slack: @ogechiokoro, github:ogechiokoro)
 
