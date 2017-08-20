@@ -57,3 +57,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (56) Oluwabukola Tina (Github - Oluwabukolatina), (Slack- OluwabukolaTina).
 (57) Kayode Emmanuel (Slack: kayode, Github: tobi007)
 (58) Abdulsamad Aliyu (slack: abdulsamadaliyu17, github: abdulsamad234)
+(59) Hogan Damilola Jerry <Slack:@hdaarme> , <github:hdjerry>
