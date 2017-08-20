@@ -142,5 +142,12 @@
 (142) Daniel Archibong (slack: @archibongdaniel13, github: @danielcomputer) 
 (143) Ajayi Thadeus (Slack: @ainoije, github: @ThadeusAjayi)
 (144) Nnaemeka Ukpa (Slack: @emekaprosper, github:@emekaProsper)
+<<<<<<< HEAD
 (145) Okwara Ebuka (slack: @okwaraebuka, github:fletcherin)
 (146) Ayotunde Doherty (Slack: the_tunde_doherty, github: thetundedoherty)
+=======
+(145) Okwara Ebuka (slack: @okwaraebuka, github:fletcherin )
+(146) Warrie Usenobong(slack: @warrie, github: @warrienelly)
+(147) Gabriel Stephen (slack:@cyberdroidmann, github:cyberdroidmann)
+(148) Aderinto Sadiq (slack:@sadiq, github:@aderintosadiq)
+>>>>>>> f3c1a9f6bc4e22fccc0d28ca15d8d68531ad954a
