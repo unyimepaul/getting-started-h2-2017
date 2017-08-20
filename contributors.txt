@@ -111,10 +111,8 @@
 (110) Keresifon Ekpo(slack:@handsome9ice, github: handsome9ice)
 (111) Agbola Iseoluwatobi samuel (Slack:tobiagbola ,Github: agbolatobi)
 (112) Osaji Gabriel(Slack:@gabby4hi, Github:gabby4hi) 
-<<<<<<< HEAD
 (113) EMEM JONAH (slack: @emiqueena, Github: @emiqueena
-=======
-(113) Wisdom Anthony Alphonsus, slack:@wizzydayo, github:@wizzydayo
->>>>>>> a47fcee302f3b4cc3f6b94c0f0bb8324e2536732
-(114) Aniekwe Joshua Chigozie (slack: josh, Github: sir-josh)
-(115) Kay Sagoe (Slack: kay_s, Github: kaysagoe)
+(114) Wisdom Anthony Alphonsus, slack:@wizzydayo, github:@wizzydayo
+(115) Aniekwe Joshua Chigozie (slack: josh, Github: sir-josh)
+(116) Kay Sagoe (Slack: kay_s, Github: kaysagoe)
+(117) Kayode Emmanuel (Slack: kayode, Github: tobi007)

@@ -55,3 +55,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (54) Edung  Divinefavour(Slack:lawrene,  github:thriller16)
 (55) Agbola Iseoluwatobi samuel (Slack:tobiagbola ,Github: agbolatobi) 
 (56) Oluwabukola Tina (Github - Oluwabukolatina), (Slack- OluwabukolaTina).
+(57) Kayode Emmanuel (Slack: kayode, Github: tobi007)
