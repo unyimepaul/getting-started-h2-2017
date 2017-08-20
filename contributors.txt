@@ -125,3 +125,4 @@
 (124) Abdulsamad Aliyu (slack: abdulsamadaliyu17, github: abdulsamad234)
 (125) Timothy Olaleke, @timtech4u , timtech4u
 (126) Victor Bala (slack: savicsly, github: savicsly)
+(127) Fiyin Adeyera (slack:Fiyin, github:Fiyin)
