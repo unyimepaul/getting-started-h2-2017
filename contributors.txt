@@ -143,3 +143,4 @@
 (143) Ajayi Thadeus (Slack: @ainoije, github: @ThadeusAjayi)
 (144) Nnaemeka Ukpa (Slack: @emekaprosper, github:@emekaProsper)
 (145) Okwara Ebuka (slack: @okwaraebuka, github:fletcherin )
+(146) Warrie Usenobong(slack: @warrie, github: @warrienelly)
