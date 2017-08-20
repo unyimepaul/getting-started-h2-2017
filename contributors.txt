@@ -138,4 +138,5 @@
 (138) Lasisi Tosin (slack: ridwan, github: ridwan099)
 (139) John Ayeni, slack:@johnayeni10, github:JohnAyeni
 (140) Okoro Ogechi (slack: @ogechiokoro, github:ogechiokoro)
-
+(141) Okokon Christopher Ntuk (slack: @chrix95, github: @chrix95)
+(142) Daniel Archibong (slack: @archibongdaniel13, github: @danielcomputer) 
