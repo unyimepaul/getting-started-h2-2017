@@ -140,3 +140,4 @@
 (140) Okoro Ogechi (slack: @ogechiokoro, github:ogechiokoro)
 (141) Okokon Christopher Ntuk (slack: @chrix95, github: @chrix95)
 (142) Daniel Archibong (slack: @archibongdaniel13, github: @danielcomputer) 
+(143) Ajayi Thadeus (Slack: @ainoije, github: @ThadeusAjayi)
