@@ -145,3 +145,4 @@
 (145) Okwara Ebuka (slack: @okwaraebuka, github:fletcherin )
 (146) Warrie Usenobong(slack: @warrie, github: @warrienelly)
 (147) Gabriel Stephen (slack:@cyberdroidmann, github:cyberdroidmann)
+(148) Aderinto Sadiq (slack:@sadiq, github:@aderintosadiq)
