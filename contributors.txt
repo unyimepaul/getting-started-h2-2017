@@ -167,3 +167,4 @@
 (168) Olagunju Babatunde Yunus,Slack:@thundex001,github @tundeOlagunju
 (169) Afolayan Favour Fikayo, (Slack:@favourafolayan, github:@favourafolayan)
 (170) Onyiuke Timothy, (Slack: timolin, github: fabrobocom)
+(171) Okorie Augustine Ugochukwu (slack: auztin, github: auztincodes)
