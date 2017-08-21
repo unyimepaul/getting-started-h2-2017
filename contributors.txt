@@ -157,3 +157,4 @@
 (157) Tejumola David Timmy,timicodes,timi-codes;
 (158) Alimi Kehinde Morufudeen (Slack: @marusoft, Github: @marusoft)
 (159) Iniobong Daniel (Slack: @opinerdan, github: @opiner)
+(160) Ohue John (Slack: @itoohue, github:  @JohnItoo)
