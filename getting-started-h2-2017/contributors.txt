@@ -28,7 +28,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (27) Akinlolu Gbemisola John, (slack: @akinlolugbemisola) (github: G-oracle)
 (28) Akunne Obinna, (slack : obinna_akunne), (github: thirdwrist)
 (29) Ojo Oreoluwa Victor, (slack: @ogbeniore) (github: @OreoluwaOjo)
-(30) Okunniga Tosin, (github: Teegold007) (slack:teegoldz)
+(30) Okunniga samson Tosin, (github: Teegold007) (slack:teegoldz)
 (31) Olatunbosun Gabriel, @bosunski, bosunski
 (32) Alexandrix Ikechukwu, cornevan, SpaghettiThots
 (33) Okwu Joscelyn Kinikachi, slack: joscelyn56, github: joscelyn56
