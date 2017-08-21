@@ -151,3 +151,4 @@
 (151) Aderinto Sadiq (slack:@sadiq, github:@aderintosadiq)
 (152) Oluchi Onyekpa (slack: @am-oluchii, Github: @oluchii)
 (153) Abu-Ekpeshie Peter (slack: @peteabu, Github: @peteabu)
+(153) Ojosipe-Isaac Mofopefoluwa, Slack: @mofope_ojosh, github: @mofopeojosh 
