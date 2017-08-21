@@ -61,5 +61,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (60) Timothy Olaleke, @timtech4u, timtech4u
 (61) Kebe Eyong (slack:kebeeyong, github:kebeeyong)
 (62) Tolu Faith (slack: imani, github: ToluImani
-(63) Lasisi Tosin (slack: ridwan, github: ridwan099) (64) = "Kevin Afoma Onwuagbanusi " Kentalogues "  "@"
-(65) Abu-Ekpeshie Peter (slack: @peteabu, Github: @peteabu) 
+(63) Lasisi Tosin (slack: ridwan, github: ridwan099) 
+(64) = "Kevin Afoma Onwuagbanusi " Kentalogues "  "@"
+(65) Abu-Ekpeshie Peter (slack: @peteabu, Github: @peteabu)
+(66) Keresifon Ekpo(slack:@handsome9ice, github: handsome9ice)
