@@ -65,3 +65,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (64) = "Kevin Afoma Onwuagbanusi " Kentalogues "  "@"
 (65) Abu-Ekpeshie Peter (slack: @peteabu, Github: @peteabu)
 (66) Keresifon Ekpo(slack:@handsome9ice, github: handsome9ice)
+(67) Okorie Augustine Ugochukwu (slack: auztin, github: auztincodes)
