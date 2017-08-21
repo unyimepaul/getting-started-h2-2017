@@ -168,3 +168,4 @@
 (169) Afolayan Favour Fikayo, (Slack:@favourafolayan, github:@favourafolayan)
 (170) Onyiuke Timothy, (Slack: timolin, github: fabrobocom)
 (171) Okorie Augustine Ugochukwu (slack: auztin, github: auztincodes)
+(172) Ikechukwu Nwakanma (Slack: markowitz, Github: icnwakanma)
