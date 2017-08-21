@@ -151,9 +151,6 @@
 (151) Aderinto Sadiq (slack:@sadiq, github:@aderintosadiq)
 (152) Oluchi Onyekpa (slack: @am-oluchii, Github: @oluchii)
 (153) Abu-Ekpeshie Peter (slack: @peteabu, Github: @peteabu)
-<<<<<<< HEAD
-(153) Ojosipe-Isaac Mofopefoluwa, Slack: @mofope_ojosh, github: @mofopeojosh 
-=======
 (154) Nsenam Udoh (slack: nsenam, github: nse4real)
 (155) Olivia Chisom (slack: seraphlivia, github: Seraphic95)
 (156) Mfonobong Umondia (Slack: mfonobong, Github: MfonobongD)
@@ -167,4 +164,4 @@
 (164) Duduyemi Mobayo (Slack: @bayoduduyemi, Github: @blaqnificent)
 (165) Oleka Kamsi (Slack: @olekakamsi, Github: @kamsy)
 (166) Oguazu Stanley (Slack: @greywhite, Github: @dearests)
->>>>>>> d8cb3419609948bac9e1d3291a679a1d1e48c7ad
+(167) Ojosipe-Isaac Mofopefoluwa, Slack: @mofope_ojosh, github: @mofopeojosh
