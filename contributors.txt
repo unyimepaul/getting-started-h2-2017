@@ -191,3 +191,4 @@
 (189) Chidi Ugwu, (Slack: Chidi, github: Kwekuceejay)
 (190) Obe Dolapo, (slack: Obe, github:adedolz)
 (191) Philip Akpeki, (slack: philippy, github: philippyy)
+(192) Liasu Hassan Temitope, (slack: hilyas, github: Hilyas68)
