@@ -176,4 +176,5 @@
 (171) Okorie Augustine Ugochukwu (slack: auztin, github: auztincodes)
 (172) Ikechukwu Nwakanma (Slack: markowitz, Github: icnwakanma)
 (173) Olibie Jennifer Chidera (Slack: jeni, Github: je-ni)
+(174) Maduabuchi Chinaechetam (Slack: lord_cheta, Github: LordCheta)
 >>>>>>> 0196c7541415a3f60e9a3c640c4c390dc2d4184e
