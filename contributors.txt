@@ -183,9 +183,13 @@
 (184) Omojola Samson, (Slack: caesar, github: omojolasamson)
 (185) king solomon, (Slack: king solomon, github: KINGDEREL)
 (186) Ajayi Seyi, iamseyiajayi, seyishemba
-
 (187) Sheriff Sanni, sheriff, SheriffSanni
 (188) jacob okoro (slack :jaycobokoro4, github:rheinchester)
 
 
 
+
+(187) Sanni Sheriff, sheriff, SheriffSanni
+(188) Obinna Walker, (Slack: obiwalker, github: ObieWalker)
+(189) Chidi Ugwu, (Slack: Chidi, github: Kwekuceejay)
+>>>>>>> bbe867913a77e136b6c179fa4edfe108e09b1561
