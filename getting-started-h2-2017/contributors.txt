@@ -71,4 +71,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (69) Isaac Abasifreke Elijah (slack: @izikelijah, github: ElijahAIsaac)
 (70) Chidi Oguamanam (slack: @elcidchidi , github: @elcidchidi)
 >>>>>>> d0d2ed35f19a359c46a1b2eae4dae28b81e3df26
-(71) Sanni Sheriff, sheriff, SheriffSanni
+(71) Sanni Sheriff, SheriffSanni, sheriff
