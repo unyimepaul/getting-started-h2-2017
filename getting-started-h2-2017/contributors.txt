@@ -67,4 +67,5 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (65) Abu-Ekpeshie Peter (slack: @peteabu, Github: @peteabu)
 (66) Keresifon Ekpo(slack:@handsome9ice, github: handsome9ice)
 (67) Okorie Augustine Ugochukwu (slack: auztin, github: auztincodes)
+(68) Nwose Lotanna Victor (slack: @viclotana, github:viclotana)
 >>>>>>> d0d2ed35f19a359c46a1b2eae4dae28b81e3df26
