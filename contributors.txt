@@ -170,11 +170,8 @@
 (168) Olagunju Babatunde Yunus,Slack:@thundex001,github @tundeOlagunju
 (169) Afolayan Favour Fikayo, (Slack:@favourafolayan, github:@favourafolayan)
 (170) Onyiuke Timothy, (Slack: timolin, github: fabrobocom)
-<<<<<<< HEAD
->>>>>>> d0d2ed35f19a359c46a1b2eae4dae28b81e3df26
-=======
 (171) Okorie Augustine Ugochukwu (slack: auztin, github: auztincodes)
 (172) Ikechukwu Nwakanma (Slack: markowitz, Github: icnwakanma)
 (173) Olibie Jennifer Chidera (Slack: jeni, Github: je-ni)
 (174) Maduabuchi Chinaechetam (Slack: lord_cheta, Github: LordCheta)
->>>>>>> 0196c7541415a3f60e9a3c640c4c390dc2d4184e
+(175) Daada Oluwatobiloba (Slack: tobi_d, Github: tobialbert)
