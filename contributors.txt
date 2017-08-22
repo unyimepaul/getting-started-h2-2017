@@ -188,8 +188,3 @@
 
 
 
-
-(187) Sanni Sheriff, sheriff, SheriffSanni
-(188) Obinna Walker, (Slack: obiwalker, github: ObieWalker)
-(189) Chidi Ugwu, (Slack: Chidi, github: Kwekuceejay)
->>>>>>> bbe867913a77e136b6c179fa4edfe108e09b1561
