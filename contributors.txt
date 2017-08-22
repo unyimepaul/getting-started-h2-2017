@@ -178,3 +178,4 @@
 (176) Kevin Afoma Onwuagbanusi,  ( slack:@kevkentalogues github:kentalogues)
 (177) Nwose Lotanna Victor (slack: @viclotana, github:viclotana)
 (178) Mmakwe Onyeka Blessing (slack:mmakwe_onyeka, github:Makwe-O)
+(179) Shalom Izebhor(slack:shalom_1, github:Shalom101)
