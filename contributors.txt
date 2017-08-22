@@ -188,3 +188,4 @@
 (186) Ajayi Seyi, iamseyiajayi, seyishemba
 (187) Sanni Sheriff, sheriff, SheriffSanni
 (188) Obinna Walker, (Slack: obiwalker, github: ObieWalker)
+(189) Chidi Ugwu, (Slack: Chidi, github: Kwekuceejay)
