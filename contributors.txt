@@ -198,8 +198,8 @@
 (194) Joseph Okoedo, (slack: xy-joe, github: Xy-joe)
 (195) lanre yusuf, (slack: lanrewells, github: yusuflanre)
 (196) Olayiwola Emmanuel, (slack: emma, github: olaasz)
-<<<<<<< HEAD
 (197) Oluwawemimo Ogunmola, (slack: wemsyz, github: wemsyz)
+<<<<<<< HEAD
 =======
 (197) Udeagha Kingsley Onyekachi, (slack: udeaghakingsley, github: udeaghakingsley)
 (198) Fatunmbi Daniel {"slack":"@danolez1fatuns","github":"@danolez1"}
@@ -211,6 +211,23 @@
 (203) Silas Silas (Slack:@silassilas github:@silassilasm)
 ( 204) Oluwatosin Akande, (slack : tosinakande, github : tosinakande) 
 (205) Olorunfemi Ojo, (slack : mrfojo, github : mrfojo) 
+=======
+(198) Udeagha Kingsley Onyekachi, (slack: udeaghakingsley, github: udeaghakingsley)
+(199) Fatunmbi Daniel {"slack":"@danolez1fatuns","github":"@danolez1"}
+(200) Temitope Dada, (slack: jotdada, github: iYoung90)
+(201)  Alo Oladele (slack: Alo, github : horlhardheiley
+(202) Raymond Blessed (slack: officialanoti, github: officialanoti)
+(203) Oluwadamilola Babalola, thedammyking, thedammyking
+(204) Silas Silas (Slack:@silassilas github:@silassilasm)
+(205) Oluwatosin Akande, (slack : tosinakande, github : tosinakande) 
+>>>>>>> 2edd854e0fe9c42784029599c179b807f89054e0
 (206) Opara Prosper Ndubuisi, (slack: @opara_prosper, github: @opara-prosper)
-
-
+(207) Olorunfemi Ojo, (slack : mrfojo, github : mrfojo) 
+(208) Opara Prosper Ndubuisi, (slack: @opara_prosper, github: @opara-prosper)
+(209) Udoh Uwem Alozie, (slack : owenatus, github : owenatus)
+(210) Shittu Maroof Ayotunde, @maroof, dbugshe2
+(211) Ubong Emmanuel Umoh, ubsoft, @realUbsoft
+(212) Omobolaji Adediran, omobolajimary,omobolajimary
+(213) Adeyemo Gabriel, adeyemogab, yemoAde
+(214) Enomfon Archibong (slack: enarchibong, github: enarchibong)
+(215) Agbo Amarachukwu, @amara_agbo, amarachukwu-agbo
