@@ -206,3 +206,4 @@
 (200)  Alo Oladele (slack: Alo, github : horlhardheiley
 (201) Raymond Blessed (slack: officialanoti, github: officialanoti)
 (202) Oluwadamilola Babalola, thedammyking, thedammyking
+(203) Silas Silas (Slack:@silassilas github:@silassilasm)
