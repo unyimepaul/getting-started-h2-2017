@@ -1,4 +1,4 @@
-(1) Nwanze Franklin, franko4don, @franko4don
+﻿(1) Nwanze Franklin, franko4don, @franko4don
 (2) Dare Sunday (github: thenameisdrey) (slack: thedrey)
 (3) Richard Umoffia (github: hackafro) (slack: richyafro)
 (4) Fregene Efe-Uririn, efefregene, efefregene
@@ -23,6 +23,8 @@
 (23) Enyi-Christopher Joshua, christofajosh, christofajosh
 (24) Ademola Abisayo Paul, @sayopaul , sayopaul2
 (25) Akinlolu Gbemisola John, (slack: @akinlolugbemisola) (github: G-oracle)
+(26) Opara Prosper, ( slack-username: @opara_prosper, github-username: @opara-prosper
+
 (26) Akunne Obinna, (slack : obinna_akunne), (github: thirdwrist)
 (27) Ojo Oreoluwa Victor, (slack: @ogbeniore) (github: @OreoluwaOjo)
 (28) Okunniga Samson Tosin, (github: Teegold007) (slack:teegoldz)
@@ -208,3 +210,4 @@
 (202) Oluwadamilola Babalola, thedammyking, thedammyking
 (203) Silas Silas (Slack:@silassilas github:@silassilasm)
 ( 204) Oluwatosin Akande, (slack : tosinakande, github : tosinakande) 
+(205) Opara Prosper Ndubuisi, (slack: @opara_prosper, github: @opara-prosper)
