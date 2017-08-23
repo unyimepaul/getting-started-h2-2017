@@ -196,4 +196,9 @@
 (194) Joseph Okoedo, (slack: xy-joe, github: Xy-joe)
 (195) lanre yusuf, (slack: lanrewells, github: yusuflanre)
 (196) Olayiwola Emmanuel, (slack: emma, github: olaasz)
+<<<<<<< HEAD
 (197) Oluwawemimo Ogunmola, (slack: wemsyz, github: wemsyz)
+=======
+(197) Udeagha Kingsley Onyekachi, (slack: udeaghakingsley, github: udeaghakingsley)
+(198) Fatunmbi Daniel {"slack":"@danolez1fatuns","github":"@danolez1"}
+>>>>>>> cf8c4246464a4c2d08dfea6e3ca85ba4a5e95614
