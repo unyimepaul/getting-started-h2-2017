@@ -1,0 +1,12 @@
+===Database a_database
+
+== Table structure for table users
+
+|------
+|Column|Type|Null|Default
+|------
+|//**id**//|int(11)|No|
+|message|varchar(200)|No|
+== Dumping data for table users
+
+|3|Hello, Hotels.ng team, I am Richard Oluwo.I would love to gather a lot of experience from this exercise.
