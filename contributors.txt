@@ -91,4 +91,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (78) Ekebo Brown Etuk (slack: brownish, github: brown-son)
 >>>>>>> daf6016518cd547a70eec44e1d7c51efd8af7933
 >>>>>>> bcdd0601c3459728641402845dac67194a8b5004
-(84) Mercy Michael Ikpe (Github: mercyikpe, Slack: mercy ikpe)
+(80) Mercy Michael Ikpe (Github: mercyikpe, Slack: mercy ikpe)
