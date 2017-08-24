@@ -8,7 +8,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (7) Sam Esidem
 (8) Toluwalope Yussuff, tody, to-dy
 (9) Damilola Shofoluwe (github: ddamox) (slack: dspencer)
-6(10) Joe-smith Essang
+(10) Joe-smith Essang
 (11) Emmanuel Promise Ozibo
 (12) Joe-smith Essang
 (13) John Otu
@@ -18,7 +18,7 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (16) Ogunbadejo Lateef, lateefogunbadejo, Lateef-OG
 (17) Adegbola Simeon
 (18) Michael Okoh, @trojan, ichtrojan
-((19) David Ukauwa
+(19) David Ukauwa
 (20) Andrew Ugbechie, (slack: @andrewugbechie) (github: @DREW-certified)
 (21) Ijaware Tiwaloluwa (slack: tiwaloluu) (github: tiwalolu)
 (22) Emmanuel Awotunde, @olaoluwa_98, @olaoluwa-98
