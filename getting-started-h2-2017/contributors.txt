@@ -73,3 +73,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (72)Abdulhafeez Babatunde (slack: mista-oba, github: mistaOba) 
 (73) Joda Opemipo, opsijay, Zaida-3dO
 (74) Taofeek Aderoju, @prolifichands, taotara
+(75) Celestine Ekoh-Ordan, ceoehis, ceoehis

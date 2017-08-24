@@ -78,3 +78,4 @@ name = "Damilola Shofoluwe" github = "@ddamox" slack = "@dspencer"
 (75) Shittu Maroof Ayotunde, (slack: @maroof, github: dbugshe2)
 (76) Taofeek Aderoju (slack: @prolifichands, github: taotara)
 (77) Oluwatosin Akande (slack : tosinakande, github : tosinakande) 
+(78) Celestine Ekoh-Ordan, ceoehis, ceoehis
